@@ -1,0 +1,26 @@
+[I 22:05:33.125 NotebookApp] Writing notebook server cookie secret to C:\Users\admin\AppData\Roaming\jupyter\runtime\notebook_cookie_secret
+[I 2022-03-28 22:05:35.794 LabApp] JupyterLab extension loaded from C:\ProgramData\Anaconda3\lib\site-packages\jupyterlab
+[I 2022-03-28 22:05:35.794 LabApp] JupyterLab application directory is C:\ProgramData\Anaconda3\share\jupyter\lab
+[I 22:05:35.794 NotebookApp] Serving notebooks from local directory: C:\Users\admin
+[I 22:05:35.794 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 22:05:35.794 NotebookApp] http://localhost:8888/?token=30bba81678025bb114614d34166e7405d0d2a4d9787f6378
+[I 22:05:35.810 NotebookApp]  or http://127.0.0.1:8888/?token=30bba81678025bb114614d34166e7405d0d2a4d9787f6378
+[I 22:05:35.810 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:05:35.857 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/admin/AppData/Roaming/jupyter/runtime/nbserver-60108-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=30bba81678025bb114614d34166e7405d0d2a4d9787f6378
+     or http://127.0.0.1:8888/?token=30bba81678025bb114614d34166e7405d0d2a4d9787f6378
+[I 22:06:37.646 NotebookApp] Creating new directory in 
+[I 22:08:52.593 NotebookApp] Creating new notebook in 
+[I 22:08:53.072 NotebookApp] Writing notebook-signing key to C:\Users\admin\AppData\Roaming\jupyter\notebook_secret
+[I 22:08:56.905 NotebookApp] Kernel started: 20aa2225-bf09-4c08-b6a6-cb981b2460f6, name: python3
+[I 22:10:56.293 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:18:56.253 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:20:56.241 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:08:03.965 NotebookApp] Starting buffering for 20aa2225-bf09-4c08-b6a6-cb981b2460f6:01af2f2c28c74eae89fa86d9bb2a2d43
+[I 00:58:19.456 NotebookApp] Restoring connection for 20aa2225-bf09-4c08-b6a6-cb981b2460f6:01af2f2c28c74eae89fa86d9bb2a2d43
+[I 00:58:43.325 NotebookApp] Starting buffering for 20aa2225-bf09-4c08-b6a6-cb981b2460f6:01af2f2c28c74eae89fa86d9bb2a2d43
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
